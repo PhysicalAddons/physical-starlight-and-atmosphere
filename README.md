@@ -1,5 +1,5 @@
 # Welcome
-This is Physical Starlight and Atmosphere bug tracker. Feel free to take look at existing Issues and report new ones.
+This is Physical Starlight and Atmosphere issue tracker. Feel free to take look at existing issues and report new ones.
 
 ## About Physical Starlight and Atmosphere
 "Physical Starlight and Atmosphere" is a full environmental simulator that takes inspiration from 'sandbox' game worlds and editors, bringing visual consistency between every object in the scene.
