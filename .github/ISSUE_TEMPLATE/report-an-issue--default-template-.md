@@ -1,14 +1,11 @@
 ---
-name: Report an issue
-about: Default issue template
+name: Report an issue [default template]
+about: Detailed information about the issue help us much faster to tackle it.
 title: ''
 labels: bug
 assignees: ''
 
 ---
-
-Detailed information about the issue helps us much faster to tackle it.
-Thank you for taking your time and reporting the issue!
 
 **Describe the bug**
 [Replace this with a clear and concise description of what the issue is about.]

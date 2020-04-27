@@ -1,5 +1,5 @@
 ---
-name: Report an issue
+name: Issue Report
 about: Default issue template
 title: ''
 labels: bug
